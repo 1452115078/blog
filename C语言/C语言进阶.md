@@ -45,3 +45,48 @@ C语言进阶
 ![image-20230328163439323](C:\Users\14521\AppData\Roaming\Typora\typora-user-images\image-20230328163439323.png)
 
 ![image-20230328163512890](C:\Users\14521\AppData\Roaming\Typora\typora-user-images\image-20230328163512890.png)
+
+指针-指针中间是元素的个数 小地址-大地址是正数
+
+打印%d是原码
+
+打印地址是内存中存储的补码
+
+## C语言2.0
+
+strlen
+
+长度不受限制
+
+strcpy
+
+![image-20230329135428100](C:\Users\14521\AppData\Roaming\Typora\typora-user-images\image-20230329135428100.png)
+
+strcat ***<u>（自己给自己追加字符串的时候不能使用strcat）</u>***
+
+strcmp
+
+长度受限制
+
+strncpy
+
+strncat
+
+strncmp
+
+strstr
+
+strtok
+
+strerror perror strerror(errno)
+
+memcpy实现的不重叠的拷贝
+
+memmove实现的是重叠部分的拷贝
+
+memcmp
+
+memset
+
+
+
