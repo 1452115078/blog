@@ -76,7 +76,7 @@ strncmp
 
 strstr
 
-strtok
+strtok 
 
 strerror perror strerror(errno)
 
@@ -88,5 +88,10 @@ memcmp
 
 memset
 
+自定义类型：结构体struct、枚举enum、联合体union
 
+**<u>结构体struct</u>**
 
+通讯录实现 
+
+联合体成员共用一块空间
